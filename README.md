@@ -8,7 +8,4 @@
 И ни звезды на небе нет
 Все чаще слякоть под ногами,
 Все раньше каждый день рассвет...</li>
-<ul class="students">
-        <li class="studentsfio">Ivan Ivanov</li>
-        <li class="studentsfio">Petr Petrov</li>
-    </ul>
+
